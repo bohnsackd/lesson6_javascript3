@@ -3,18 +3,19 @@
 ### Course Title:
 Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Date:
+11/3/2017
 
 ### Student Name:  
-(First and Last Name)
+David Bohnsack
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Photo Gallery that allows you look at  five pictures while using left and right arrows. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://bohnsackd.github.io/lesson6_javascript3/
+
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
